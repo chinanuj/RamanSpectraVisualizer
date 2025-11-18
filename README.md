@@ -202,10 +202,3 @@ If you use this tool in your research, please cite:
 <div align="center">
   
 **⭐ If you find this tool useful, please consider giving it a star! ⭐**
-
-</div>
-```bash
-git add README.md
-git commit -m "Add comprehensive README"
-git push origin main
-```
