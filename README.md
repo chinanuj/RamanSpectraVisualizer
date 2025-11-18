@@ -1,6 +1,4 @@
-**Here's a professional README for your Raman Spectra Visualizer:**
 
-```markdown
 # 🔬 Raman Spectra Visualizer
 
 A web-based application for automated Raman spectroscopy data processing and visualization, developed for saliva-based tuberculosis detection research.
@@ -244,10 +242,6 @@ For questions or issues, please:
 Made with ❤️ for the scientific community
 
 </div>
-```
-
-**Save this as `README.md` in your repo root, then:**
-
 ```bash
 git add README.md
 git commit -m "Add comprehensive README"
