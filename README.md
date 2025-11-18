@@ -155,17 +155,6 @@ Uses `scipy.signal.find_peaks` with:
 - **Height threshold**: 70th percentile of signal region
 - **Distance**: Minimum 25 points between peaks
 
-## 📸 Screenshots
-
-### Main Interface
-*Upload your CSV and get instant processing*
-
-### Processing Results
-*View comprehensive quality metrics*
-
-### Interactive Spectrum
-*Zoom, pan, and explore your data*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -198,24 +187,6 @@ If you use this tool in your research, please cite:
 
 **Anuj Chincholikar**
 - GitHub: [@chinanuj](https://github.com/chinanuj)
-- Project: BTech Final Year Project (2025)
-- Topic: Saliva-Based Detection of Tuberculosis using Raman Spectroscopy
-
-## 🙏 Acknowledgments
-
-- Developed as part of BTech Final Year Project (2024-2025)
-- Supervisor: [Supervisor Name]
-- Institution: [Your Institution]
-- Special thanks to the Raman spectroscopy and signal processing communities
-
-## 📝 Changelog
-
-### v1.0.0 (November 2025)
-- Initial release
-- Adaptive baseline correction
-- Interactive Plotly visualizations
-- Peak detection and labeling
-- CSV export functionality
 
 ## 🔮 Future Enhancements
 
@@ -226,20 +197,11 @@ If you use this tool in your research, please cite:
 - [ ] Mobile-responsive design
 - [ ] Export to publication-ready formats
 
-## 📞 Support
-
-For questions or issues, please:
-1. Check existing [Issues](https://github.com/chinanuj/RamanSpectraVisualizer/issues)
-2. Open a new issue with detailed description
-3. Contact: [your.email@example.com]
-
 ---
 
 <div align="center">
   
 **⭐ If you find this tool useful, please consider giving it a star! ⭐**
-
-Made with ❤️ for the scientific community
 
 </div>
 ```bash
